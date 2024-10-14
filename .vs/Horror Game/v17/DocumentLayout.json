@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Horror Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\game\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\game\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\actionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\actionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\actionpointopenable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\actionpointopenable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\monster\\monsterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster\\monsterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|d:\\unity projects\\horror game\\assets\\scripts\\environment\\enablemiddleroof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\enablemiddleroof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\obstacles\\obstaclecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\obstacles\\obstaclecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\monster\\monster scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\monster\\monster scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\game\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\game\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\game\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\game\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\torch\\torchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\torch\\torchmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\jump scares\\caughtscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump scares\\caughtscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\jump scares\\torchdepletescares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump scares\\torchdepletescares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\jump scares\\handlejumpscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump scares\\handlejumpscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\jump scares\\notcaughtscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump scares\\notcaughtscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerpositioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerpositioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\actionpointrightpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\actionpointrightpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\actionpointleftpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\actionpointleftpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\actionpointstartpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\actionpointstartpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\turning points\\startpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\turning points\\startpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\turning points\\backpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\turning points\\backpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\turning points\\rightpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\turning points\\rightpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\turning points\\leftpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\turning points\\leftpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\torch\\torchbatterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\torch\\torchbatterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\jump scares\\randomscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump scares\\randomscares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\elevatorpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\elevatorpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\objects\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\objects\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\game\\levelender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\game\\levelender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\action points\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\action points\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\torch\\batterypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\torch\\batterypickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerslowmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerslowmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\game\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\objects\\wheelchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\objects\\wheelchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playercollisiongrunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercollisiongrunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\pickup objects\\rotateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\pickup objects\\rotateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\environment\\pickup objects\\pickupobjectsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\pickup objects\\pickupobjectsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerheldobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerheldobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerfootsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerfootsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|D:\\Unity Projects\\Horror Game\\assets\\scripts\\player\\playerbreathing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E47C544-0A85-7F0A-A217-07EFE9026730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerbreathing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnableMiddleRoof.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\EnableMiddleRoof.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\EnableMiddleRoof.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\EnableMiddleRoof.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\EnableMiddleRoof.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:48:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonsterController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Monster\\Monster Scripts\\MonsterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Monster\\Monster Scripts\\MonsterController.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Monster\\Monster Scripts\\MonsterController.cs",
+              "RelativeToolTip": "Assets\\Monster\\Monster Scripts\\MonsterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:28:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterHandler.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Monster\\MonsterHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster\\MonsterHandler.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Monster\\MonsterHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster\\MonsterHandler.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAewAABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:18:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Game\\GameOver.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Game\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:30:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Controls.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\Controls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Game\\Controls.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\Controls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Game\\Controls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:26:55.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Game\\MainMenu.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Game\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:27:30.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TorchBatteryManager.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\TorchBatteryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Torch\\TorchBatteryManager.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\TorchBatteryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Torch\\TorchBatteryManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAASwFkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:52:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TorchManagement.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\TorchManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Torch\\TorchManagement.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\TorchManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Torch\\TorchManagement.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAADgv9IAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:58:39.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RandomScares.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\RandomScares.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump Scares\\RandomScares.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\RandomScares.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump Scares\\RandomScares.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:15:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BatteryPickup.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\BatteryPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Torch\\BatteryPickup.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Torch\\BatteryPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Torch\\BatteryPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:44:32.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ElevatorPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ElevatorPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ElevatorPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ElevatorPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ElevatorPad.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:06:24.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionPointOpenable.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointOpenable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ActionPointOpenable.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointOpenable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ActionPointOpenable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:31:49.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionPoint.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ActionPoint.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ActionPoint.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:21:07.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\Elevator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\Elevator.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\Elevator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\Elevator.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:08:29.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RotateObject.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Pickup Objects\\RotateObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Pickup Objects\\RotateObject.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Pickup Objects\\RotateObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Pickup Objects\\RotateObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:54:57.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PickupObjectSoundManager.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Pickup Objects\\PickupObjectSoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Pickup Objects\\PickupObjectSoundManager.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Pickup Objects\\PickupObjectSoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Pickup Objects\\PickupObjectSoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:44:30.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OpenDoor.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\OpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\OpenDoor.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\OpenDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\OpenDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:45:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PlayerCollisionGrunt.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerCollisionGrunt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCollisionGrunt.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerCollisionGrunt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCollisionGrunt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:09:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerSlowmo.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerSlowmo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerSlowmo.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerSlowmo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerSlowmo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:53:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlayerBreathing.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerBreathing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerBreathing.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerBreathing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerBreathing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:16:07.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PlayerFootsteps.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerFootsteps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerFootsteps.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerFootsteps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerFootsteps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:12:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Balloon.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Objects\\Balloon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Objects\\Balloon.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Objects\\Balloon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Objects\\Balloon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:24:31.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Wheelchair.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Objects\\Wheelchair.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Objects\\Wheelchair.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Objects\\Wheelchair.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Objects\\Wheelchair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:24:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelStarter.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\LevelStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Game\\LevelStarter.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\LevelStarter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Game\\LevelStarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:20:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LevelEnder.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\LevelEnder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Game\\LevelEnder.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Game\\LevelEnder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Game\\LevelEnder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:06:04.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:23:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActionPointRightPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointRightPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ActionPointRightPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointRightPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ActionPointRightPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:46:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ActionPointLeftPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointLeftPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ActionPointLeftPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointLeftPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ActionPointLeftPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:17:47.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActionPointStartPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointStartPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Action Points\\ActionPointStartPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Action Points\\ActionPointStartPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Action Points\\ActionPointStartPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:13:50.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlayerPickup.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPickup.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPickup.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:06:01.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PlayerHeldObject.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerHeldObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHeldObject.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerHeldObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHeldObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:11:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerPositioning.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerPositioning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPositioning.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerPositioning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPositioning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:08:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotCaughtScares.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\NotCaughtScares.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump Scares\\NotCaughtScares.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\NotCaughtScares.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump Scares\\NotCaughtScares.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswLkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:22:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CaughtScares.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\CaughtScares.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump Scares\\CaughtScares.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\CaughtScares.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump Scares\\CaughtScares.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAASwBIBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:54:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TorchDepleteScares.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\TorchDepleteScares.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump Scares\\TorchDepleteScares.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\TorchDepleteScares.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump Scares\\TorchDepleteScares.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwIIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:22:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HandleJumpScares.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\HandleJumpScares.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump Scares\\HandleJumpScares.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Jump Scares\\HandleJumpScares.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump Scares\\HandleJumpScares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:54:18.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BackPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\BackPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Turning Points\\BackPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\BackPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Turning Points\\BackPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:45:57.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RightPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\RightPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Turning Points\\RightPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\RightPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Turning Points\\RightPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:24:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeftPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\LeftPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Turning Points\\LeftPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\LeftPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Turning Points\\LeftPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:21:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartPad.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\StartPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Turning Points\\StartPad.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Turning Points\\StartPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Turning Points\\StartPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:31:58.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObstacleCollision.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Obstacles\\ObstacleCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\Obstacles\\ObstacleCollision.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Environment\\Obstacles\\ObstacleCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\Obstacles\\ObstacleCollision.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:25:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ToolTip": "D:\\Unity Projects\\Horror Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAArwL0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:53:56.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
